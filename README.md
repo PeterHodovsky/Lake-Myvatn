@@ -1,5 +1,5 @@
 https://peterhodovsky.github.io/Lake-Myvatn/
-
+https://docs.google.com/spreadsheets/d/1nU30HdgBJZWwcu8L8vWHbUcE35_wC9o13CmmzFPYs48/edit#gid=0
 # Leaflet Maps with Google Sheets
 Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on GitHub
 
